@@ -31,7 +31,7 @@ def mossig(inputmos):
                 flash.value(0)
                 time.sleep(0.2)
             elif o == ' ':
-                time. sleep(1.0)
+                time. sleep(0.8)
         time.sleep(0.4)
 
 mossig('sos')
